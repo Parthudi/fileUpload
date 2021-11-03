@@ -1,0 +1,32 @@
+.header{
+    height: 5rem;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.header button{
+    top: 1.4rem;
+    right: 1rem;
+    float: right;
+    margin: auto 0.3rem;
+}
+
+.modalStyle{
+    border: 1px solid white;
+    background-color: white;
+    margin: 5rem auto;
+    height: 38rem;
+    width: 28.5rem;
+    padding: 2rem;
+    border-radius: 0.4rem;
+}
+
+.modalStyle button{
+    border-radius: 0.2rem;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.photos{
+    margin-top: 3rem;
+}
